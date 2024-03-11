@@ -2,6 +2,12 @@
 
 Wordflo is the world's fastest transcript editing experience, leveraging first-principle design and proprietary voice intelligence technology to accelerate the time it takes to get to final-perfect transcription.The transcript editor is for high-impact calls in regulated spaces, and is meant to augment existing compliance and QA teams. You can find a demo at [wordflo.ai](http://wordflo.ai).
 
+## Changes on 03/10/2024
+
+- Added Wordflo pricing page.
+- Added actual file name on top of Wordflo page.
+- Comments can now be edited/deleted in-session (WIP).
+
 ## Changes on 03/08/2024
 
 - Added Wordflo official landing page.
